@@ -11,9 +11,7 @@
 
     <modelVersion>4.0.0</modelVersion>
 
-
     <artifactId>class-transformer-app</artifactId>
-
 
     <dependencies>
         <dependency>
@@ -22,7 +20,6 @@
             <version>1.0</version>
         </dependency>
     </dependencies>
-
 
     <build>
         <plugins>
