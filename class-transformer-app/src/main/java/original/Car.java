@@ -5,6 +5,6 @@ import instruments.AddConstructor;
 @AddConstructor
 public class Car extends AbstractCar {
 
-	private final String model = "Toyota";
+	private String model;
 	private int year;
 }
